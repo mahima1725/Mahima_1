@@ -1,3 +1,4 @@
 # Mahima_1
-THi is my first Git reposatory!
+This is my first Git repository!
+<be>
 Author: MAHIMA
